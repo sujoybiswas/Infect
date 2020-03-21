@@ -87,15 +87,12 @@ __Exit__ :
 https://www.youtube.com/noobhackers
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+http://aveng-hackers.blogspot.com
 
 ## ?? ***Join***
 
 ### Facebook group: 
 https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
 
 ### Facebook page:
 https://www.facebook.com/Noob-Hackers-250938565573643
@@ -107,7 +104,7 @@ https://www.instagram.com/noobhackers352
 https://in.pinterest.com/noobhackers
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/aveng-hackers
 
 ### ?? Warning
 
