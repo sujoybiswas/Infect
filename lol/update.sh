@@ -1,5 +1,5 @@
 Skip to content
-noob-hackers / infect
+aveng-hacker / infect
 #colour section
 red='\033[1;31m'
 rset='\033[0m'
@@ -37,7 +37,7 @@ echo -e "$grn                updating the infect  please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf Infect
-git clone https://github.com/noob-hackers/Infect
+git clone https://github.com/sujoybiswas/Infect
 clear
 echo " "
 echo -e "$grn               infect has been updated check it now...$rset"
